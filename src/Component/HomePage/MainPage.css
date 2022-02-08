@@ -1,0 +1,14 @@
+.main-page-container{
+    width:100vw;
+    height:100%;
+    background: url("https://ik.imagekit.io/ilmq4vzs0q1/amazon-image/amazon-image/1348517_in_prime_2_pd_3000x1200_Eng._CB663273097_.jpg_V_kR-dvzv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643556881550");
+    background-size: cover;
+    background-color: #EAEDED;
+}
+
+.main-page-item-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 260px;
+    
+}

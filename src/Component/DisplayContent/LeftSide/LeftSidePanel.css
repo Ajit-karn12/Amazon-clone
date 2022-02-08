@@ -1,0 +1,20 @@
+.left-side-menu-container {
+    height:100vh;
+    width:200px;
+    border-right: 1px solid #DDDDDD;
+    padding:30px;
+}
+.leftside-header {
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.leftside-brandname {
+
+}
+
+.brandname {
+    display: block;
+    width: 100px;
+}

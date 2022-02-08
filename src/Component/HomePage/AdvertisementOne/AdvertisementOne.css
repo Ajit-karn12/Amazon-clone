@@ -1,0 +1,22 @@
+.advertisementone-container {
+    height:350px;
+    width:320px;
+    background-color: #ffffff;
+    margin: 10px;
+
+}
+.advertisementone-header {
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: 700;
+    padding: 15px;
+
+}
+.advertisementone-body{
+
+    padding-left:15px ;
+}
+.advertisementone-footer{
+    padding: 15px;
+
+}
